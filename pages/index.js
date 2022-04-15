@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { allArticles } from ".contentlayer/generated";
 import { pick } from "@contentlayer/client";
 import Article from "components/article";
